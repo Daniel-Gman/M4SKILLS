@@ -1,5 +1,3 @@
 <?php
-
-echo"test"
-
+print_r(var_dump($_POST))
 ?>
